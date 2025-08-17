@@ -1,0 +1,32 @@
+[
+  {
+    "username": "JASPERO",
+    "password": "666",
+    "email": "",
+    "rank": "Админ",
+    "confirmed": true,
+    "ip": "::1",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "registeredAt": "2025-08-17T16:42:01.062Z"
+  },
+  {
+    "username": "FIRST",
+    "password": "111",
+    "email": "",
+    "rank": "Пользователь",
+    "confirmed": true,
+    "ip": "::1",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "registeredAt": "2025-08-17T16:42:16.030Z"
+  },
+  {
+    "username": "hi",
+    "password": "q[s-qsl0-lqsl",
+    "email": "mefissolo@icloud.com",
+    "rank": "Пользователь",
+    "confirmed": true,
+    "ip": "::1",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "registeredAt": "2025-08-17T16:54:45.454Z"
+  }
+]
